@@ -1,4 +1,6 @@
-# Mentoring in New Dimensions (MIND) Event Analysis
+#### **Volunteer Project 1: Events Registration and Feedback Analysis Aug - Oct 2024**
+
+# Project Overview
 
 This project aimed to analyze event registration and feedback trends for Mentoring in New Dimensions (MIND) to better understand participant demographics, preferences, and feedback. The analysis featured two key dashboards: Registration Trends and Feedback Trends, providing actionable insights to improve the effectiveness of MIND’s events and enhance future engagement.
 
